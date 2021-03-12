@@ -1,0 +1,9 @@
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.deps.json
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\obj\Debug\netcoreapp3.1\Knb.ServiceContainer.csprojAssemblyReference.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\obj\Debug\netcoreapp3.1\Knb.ServiceContainer.AssemblyInfoInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\obj\Debug\netcoreapp3.1\Knb.ServiceContainer.AssemblyInfo.cs
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\obj\Debug\netcoreapp3.1\Knb.ServiceContainer.csproj.CoreCompileInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\obj\Debug\netcoreapp3.1\Knb.ServiceContainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.ServiceContainer\obj\Debug\netcoreapp3.1\Knb.ServiceContainer.pdb

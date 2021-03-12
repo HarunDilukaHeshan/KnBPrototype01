@@ -1,0 +1,58 @@
+﻿<Page x:Class="Knb.UI.Wpf.Pages.TrainerPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Knb.UI.Wpf.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="TrainerPage" Loaded="Page_Loaded">
+
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel Orientation="Vertical" Margin="10,10,0,0">
+                    <StackPanel Orientation="Vertical">
+                        <Label x:Name="Lbl_dataFileName" Content="Data filename:" />
+                        <ComboBox x:Name="Cmb_dataFileName" />
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical">
+                        <Label x:Name="Lbl_processedDataFileName" Content="Processed data filename:" />
+                        <StackPanel Orientation="Horizontal">
+                            <ComboBox x:Name="Cmb_processedDataFileName" Width="200"/>
+                            <Button x:Name="Btn_addNewPDataFile" Content="Add.." Width="50" Margin="5,0,0,0" Click="Btn_addNewPDataFile_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical">
+                        <Label x:Name="Lbl_modelFileName" Content="ML model filename:" />
+                        <TextBox x:Name="Txt_modelFileName" Width="255" Padding="2,2,2,2"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Vertical">
+                        <Label x:Name="Lbl_testDataFileName" Content="Test data filename:" />
+                        <StackPanel Orientation="Horizontal">
+                            <ComboBox x:Name="Cmb_testDataFileName" Width="255"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Vertical" Margin="100,10,0,0">
+                        <Label x:Name="Lbl_trainingAlg" Content="Training algorithm:" />
+                        <ComboBox x:Name="Cmb_trainingAlg" Width="255" />
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Margin="5,40,5,0">
+                <Label x:Name="Lbl_pLabel" Content="Start" />
+                <ProgressBar x:Name="Pb_trainerPb" MinHeight="25"></ProgressBar>
+            </StackPanel>
+        </StackPanel>
+        <Button 
+            x:Name="Btn_startTrainer" 
+            Content="Start" 
+            Margin="0,0,10,10"
+            Width="120"
+            FontSize="16"
+            VerticalAlignment="Bottom" 
+            HorizontalAlignment="Right" Click="Btn_startTrainer_Click"  />
+    </Grid>
+</Page>

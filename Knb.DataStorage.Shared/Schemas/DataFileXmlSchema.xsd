@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="XMLSchema"
+    targetNamespace="https://wwww.knb.com/"
+    elementFormDefault="qualified"
+    xmlns="https://wwww.knb.com/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:element name="game-data" type="gameDataType"></xs:element>
+
+  <xs:complexType name="gameDataType">
+    <xs:sequence>
+      <xs:element name="play-data" type="playDataType" minOccurs="0" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="playDataType">
+    <xs:sequence>
+      <xs:element name="round-data" type="roundDataType" minOccurs="1" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>
+    <xs:attribute name="playerId" type="xs:string"></xs:attribute>
+  </xs:complexType>
+
+  <xs:complexType name="roundDataType">
+    <xs:sequence>
+      <xs:element name="turn-data" type="turnDataType" minOccurs="1" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="turnDataType">
+    <xs:sequence>
+      <xs:element name="faced-up-cards" type="facedUpCardsType"></xs:element>
+      <xs:element name="hand" type="handType"></xs:element>
+      <xs:element name="prev-turns" type="prevTurnsType"></xs:element>
+      <xs:element name="active-cards" type="activeCardsType"></xs:element>
+      <xs:element name="inactive-cards" type="inactiveCardsType"></xs:element>
+    </xs:sequence>
+    <xs:attribute name="playerId" type="xs:string"></xs:attribute>
+  </xs:complexType>
+
+  <xs:simpleType name="facedUpCardsType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="(([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A))(,([H|S|C|D])\5)*)?"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="handType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="(([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A))(,([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A)))*)?"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="prevTurnsType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="((\[(([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A))(,([H|S|C|D])\k'7')*)\])(,\[(([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A))(,([H|S|C|D])\k'16')*)?\])*)?"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="activeCardsType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="(([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A))(,([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A)))*)?"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="inactiveCardsType">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="(([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A))(,([H|S|C|D])(Card(([2-9])|(10)|J|Q|K|A)))*)?"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

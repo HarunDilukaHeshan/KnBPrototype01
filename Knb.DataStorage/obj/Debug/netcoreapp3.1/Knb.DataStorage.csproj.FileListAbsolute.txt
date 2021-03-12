@@ -1,0 +1,15 @@
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.csprojAssemblyReference.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.AssemblyInfoInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.AssemblyInfo.cs
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.csproj.CoreCompileInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Schemas\DataFileXmlSchema.xsd
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.DataStorage.deps.json
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.DataStorage.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.DataStorage.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.DataStorage.Shared.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.DataStorage.Shared.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.csproj.CopyComplete
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.DataStorage\obj\Debug\netcoreapp3.1\Knb.DataStorage.pdb

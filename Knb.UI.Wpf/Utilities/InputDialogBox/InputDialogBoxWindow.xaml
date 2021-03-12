@@ -1,0 +1,24 @@
+﻿<Window x:Name="window" x:Class="Knb.UI.Wpf.Utilities.InputDialogBox.InputDialogBoxWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Knb.UI.Wpf.Utilities.InputDialogBox"
+        mc:Ignorable="d"
+        Title="InputDialogBox" 
+        ResizeMode="CanResize"
+        MaxWidth="480"
+        MaxHeight="240"
+        Height="240" 
+        Width="480" WindowStyle="ToolWindow">
+    <Grid Width="Auto" Height="Auto">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+            <TextBlock x:Name="TxtB_message" Height="30" Text="Text block" />
+            <TextBox x:Name="Txt_input" Text="Type here..." Height="30" Margin="2,0,2,0" />
+        </StackPanel>
+
+        <Button x:Name="Btn_ok" Content="Okay" Click="Btn_ok_Click" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,5" Width="100" Height="20" />
+        <Button x:Name="Btn_cancel" Content="Cancel" Click="Btn_cancel_Click" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,5" Width="100" Height="20" />
+
+    </Grid>
+</Window>

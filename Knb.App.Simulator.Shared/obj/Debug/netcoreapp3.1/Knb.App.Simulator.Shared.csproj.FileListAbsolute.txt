@@ -1,0 +1,12 @@
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\bin\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.deps.json
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\bin\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\bin\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.csprojAssemblyReference.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.AssemblyInfoInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.AssemblyInfo.cs
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.csproj.CoreCompileInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.csproj.CopyComplete
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Simulator.Shared\obj\Debug\netcoreapp3.1\Knb.App.Simulator.Shared.pdb

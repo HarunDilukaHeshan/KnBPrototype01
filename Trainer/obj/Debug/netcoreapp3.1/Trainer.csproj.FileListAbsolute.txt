@@ -1,0 +1,9 @@
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\bin\Debug\netcoreapp3.1\Trainer.deps.json
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\bin\Debug\netcoreapp3.1\Trainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\bin\Debug\netcoreapp3.1\Trainer.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\obj\Debug\netcoreapp3.1\Trainer.csprojAssemblyReference.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\obj\Debug\netcoreapp3.1\Trainer.AssemblyInfoInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\obj\Debug\netcoreapp3.1\Trainer.AssemblyInfo.cs
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\obj\Debug\netcoreapp3.1\Trainer.csproj.CoreCompileInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\obj\Debug\netcoreapp3.1\Trainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Trainer\obj\Debug\netcoreapp3.1\Trainer.pdb

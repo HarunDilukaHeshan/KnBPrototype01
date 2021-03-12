@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Knb.App.Simulator.Shared\Knb.App.Simulator.Shared.csproj" />
+    <ProjectReference Include="..\Knb.DataStorage.Shared\Knb.DataStorage.Shared.csproj" />
+    <ProjectReference Include="..\Knb.DataStorage\Knb.DataStorage.csproj" />
+    <ProjectReference Include="..\Knb.ServiceContainer\Knb.ServiceContainer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="GameData\" />
+  </ItemGroup>
+
+</Project>

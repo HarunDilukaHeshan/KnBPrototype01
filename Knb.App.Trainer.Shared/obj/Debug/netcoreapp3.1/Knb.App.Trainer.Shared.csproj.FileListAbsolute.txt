@@ -1,0 +1,15 @@
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.deps.json
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.ServiceContainer.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.csprojAssemblyReference.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.AssemblyInfoInputs.cache
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.AssemblyInfo.cs
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.csproj.CopyComplete
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Schemas\DataFileXmlSchema.xsd
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.DataStorage.Shared.dll
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\bin\Debug\netcoreapp3.1\Knb.DataStorage.Shared.pdb
+E:\Projects\The king and the begger\Prototype\KnBPrototype01\Knb.App.Trainer.Shared\obj\Debug\netcoreapp3.1\Knb.App.Trainer.Shared.csproj.CoreCompileInputs.cache
